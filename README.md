@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Web Developer, AI Engineer, Software Engineer<br>I have completed a 1 month internship as Artificial Intelligence Intern at Trigent Software Inc.<br>👯 I have completed a 1 month internship as a Web Development Intern at Titan Company<br>🌱 I’m currently trying to master Data Structures and Algorithms<br>💬My skills include C, Java, Python, HTML, CSS, Javascript, Node.js, MySQL<br>
+🔭 I’m a Web Developer, AI Engineer, Software Engineer<br>👩🏻‍💻I have completed a 1 month internship as Artificial Intelligence Intern at Trigent Software Inc.<br>👯 I have completed a 1 month internship as a Web Development Intern at Titan Company<br>🌱 I’m currently trying to master Data Structures and Algorithms<br>💬My skills include C, Java, Python, HTML, CSS, Javascript, Node.js, MySQL<br>
 
 
 ## 🌐 Socials:
